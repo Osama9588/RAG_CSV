@@ -25,7 +25,7 @@ Financial Data Q&A with Orca-Mini is an AI-powered Streamlit app that lets you u
  ## 🚀 Getting Started
 ### 1️⃣ Clone the repository  
 ```bash
-git clone https://github.com/Osama9588/.git
+git clone [https://github.com/Osama9588/.git](https://github.com/Osama9588/RAG_CSV.git)
 cd google-gemini-chatbot
 ```
 
